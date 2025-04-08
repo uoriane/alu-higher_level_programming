@@ -1,5 +1,4 @@
-#!/usr/bin/python3
-"""
+ttests for models/square.py.
     Unittest classes:
         TestSquare_instantiation
         TestSquare_size

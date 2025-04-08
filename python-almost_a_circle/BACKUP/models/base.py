@@ -4,7 +4,7 @@
 """Defines a base model class."""
 import json
 import csv
-#import turtle
+import turtle
 
 
 class Base:
